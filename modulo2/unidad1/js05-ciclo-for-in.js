@@ -1,7 +1,7 @@
 const persona = {
-    nombre: "Fernando",
-    apellido: "Llulluna",
-    edad: 24,
+    nombre: "Francisco",
+    apellido: "Soliz",
+    edad: 34,
     direccion: "Av. Amazonas",
     telefono: "099999999"
 }
