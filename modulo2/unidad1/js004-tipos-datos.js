@@ -14,8 +14,8 @@ console.log("x",x,"tipo de variable",typeof x);
 
 console.log("Tipos de Variables NO Primitivas");
 const persona={
-    nombre :"Jose",
-    apellido :"Llulluna"
+    nombre :"Francisco",
+    apellido :"Soliz"
 }
 console.log("Apellido",persona.apellido,"tipo de variable",typeof persona);
 persona.apellido='Cuichan';
